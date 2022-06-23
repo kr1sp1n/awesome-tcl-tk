@@ -19,6 +19,7 @@ Excerpt from [https://tcl.tk/](https://tcl.tk/):
 
 - [List of Tcl/Tk community resources](https://tcl.tk/community/)
 - [Tcler's Wiki](https://wiki.tcl-lang.org/)
+- [Monthly virtual meetup](https://wiki.tcl-lang.org/page/Monthly+Virtual+Meetup)
 
 ## Packages
 
